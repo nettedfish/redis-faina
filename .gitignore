@@ -25,3 +25,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+6379_redis_monitor.log
